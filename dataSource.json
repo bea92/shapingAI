@@ -1,5 +1,5 @@
 [
-    "https://github.com/bea92/shapingAI/blob/main/space_compas.json",
-    "https://github.com/bea92/shapingAI/blob/main/space_nhs.json",
-    "https://github.com/bea92/shapingAI/blob/main/space_parrot.json"
+    "https://raw.githubusercontent.com/bea92/shapingAI/main/space_compas.json",
+    "https://raw.githubusercontent.com/bea92/shapingAI/main/nhs_compas.json",
+    "https://raw.githubusercontent.com/bea92/shapingAI/main/parrot_compas.json"
   ]
