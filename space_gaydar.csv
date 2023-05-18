@@ -1,0 +1,111 @@
+﻿id_c0nv,n_tweets,complete_tree,tree_size,n_orphans,tree_depth,tree_width,conv_start,conv_end,Justification,Topics,disagreement,x,y
+0,32,FALSE,15,15,17,10,07/09/2017 10:02,08/09/2017 18:12,they discuss the paper,Harms,2,-54.5015,0.43879954
+1,17,FALSE,1,1,16,1,07/09/2017 16:23,08/09/2017 06:05,comments on the paper started by tweet with link to paper started by article in the Economist,Harms;Model bias;Model Performance;Accuracy,1,-53.502558,0.6453774
+2,9,FALSE,9,9,0,4,07/09/2017 16:25,11/09/2017 18:24,comments on the paper started by tweet with link to paper started by article in the Economist,Study Assumptions,1,-52.497654,-0.1699094
+3,13,FALSE,5,5,8,3,08/09/2017 05:19,13/09/2017 11:58,discuss the paper results and harms,Validity;harms,0,-51.503145,0.4341833
+4,18,FALSE,18,18,0,4,08/09/2017 10:41,08/09/2017 11:08,discuss the paper validity,Validity,0,-50.49912,-0.1296305
+5,134,FALSE,95,95,39,57,08/09/2017 11:30,14/09/2017 20:05,"on the Gaydar paper, from a tweet citing a Guardian article about the paper, selection Model bias",Model bias;Harms;Study Assumptions;Bias,2,-49.502252,0.69588759
+6,26,FALSE,20,20,6,16,08/09/2017 15:13,12/11/2020 00:11,pretty much insults to Kosinks,Pseudo-Science;Harms,1,-48.502151,-0.2025248
+7,17,FALSE,14,14,3,5,08/09/2017 16:10,11/09/2017 20:50,on paper accuracy,Model Performance;Accuracy,1,-47.497473,0.00854635
+8,20,FALSE,20,20,0,18,08/09/2017 16:25,13/09/2017 01:20,on Economist article,Model limitations;Validity,0,-46.498959,-0.1159147
+9,21,FALSE,21,21,0,20,08/09/2017 17:17,09/09/2017 11:15,reaction to independent article,Pseudo-Science,0,-45.498158,-0.7604703
+10,20,FALSE,7,7,13,3,09/09/2017 02:26,08/02/2018 22:06,from Kosinski paper,Harms,1,-44.50166,0.46814095
+11,13,FALSE,1,1,12,1,09/09/2017 05:32,10/09/2017 03:38,"root tweet from Russia Today is cancelled, superficial discussion on the harms",Harms;Bias,0,-43.501045,0.67363375
+12,19,FALSE,19,19,0,18,09/09/2017 07:52,09/09/2017 15:49,"on independent article, very general public reacton (non experts)",Phrenology;Pseudo-Science,0,-42.49555,-1.1647987
+13,10,FALSE,7,7,3,4,09/09/2017 08:10,28/09/2017 04:05,on validity,Pseudo-Science;Harms;validity,1,-41.503859,-0.1954045
+14,19,FALSE,11,11,8,8,09/09/2017 11:37,09/09/2017 21:14,it's on the article from the Guardian (about gaydar paper,Harms;Pseudo-Science;Ethics,1,-40.502035,-0.21146
+15,12,FALSE,12,12,0,5,09/09/2017 11:59,09/09/2017 13:11,it's on the article from the Guardian (about gaydar paper,Harms;Ai ethics;Bias,1,-39.500613,0.68104213
+16,20,FALSE,13,13,7,3,09/09/2017 15:34,09/09/2017 16:11,it's on the article from the Guardian (about gaydar paper,Harms;Pseudo-Science,1,-38.502311,-0.1731834
+17,17,FALSE,13,13,4,12,09/09/2017 18:30,10/09/2017 13:41,"on paper, not experts",Validity;Pseudoscience,0,-37.499882,-0.7504159
+18,12,FALSE,11,11,1,8,09/09/2017 19:27,14/09/2017 17:21,comments on the paper,Ai ethics;Harms;algorithm abuse,0,-36.501621,0.5010316
+19,13,FALSE,1,1,12,1,10/09/2017 08:32,14/09/2017 20:14,kosinski's tweets,aim of the paper (help or harm);harms,1,-35.502124,0.50849879
+20,72,FALSE,69,69,3,35,10/09/2017 08:36,19/01/2021 19:47,discussion originated by Kosinski's tweet on gaydar,Accuracy;Validity;Harms;Discrimination;Nature vs Nurture,2,-34.503746,0.60686718
+21,22,FALSE,18,18,4,10,10/09/2017 14:03,08/11/2020 00:18,they discuss the paper from root tweet,Harms;Model bias;Pseudo-Science,2,-33.503531,-0.0708247
+22,12,FALSE,12,12,0,10,10/09/2017 16:12,15/07/2018 12:10,on paper (bit superficial),Validity;harms,1,-32.503448,0.48993199
+23,19,FALSE,18,18,1,16,10/09/2017 20:37,11/09/2017 07:19,"on independent article, very general public reacton (non experts)",Phrenology;Pseudo-Science,0,-31.495726,-1.1325231
+24,35,FALSE,30,30,5,8,11/09/2017 08:33,11/09/2017 20:40,discuss generally the paper,Pseudo-Science;Harms,1,-30.502439,-0.1497103
+25,63,FALSE,3,3,60,2,11/09/2017 10:37,17/09/2017 23:55,on predictors used in paper,Model limitations;Validity;Pseudo Science,2,-29.499785,-0.7249636
+26,32,FALSE,24,24,8,12,11/09/2017 15:21,11/09/2017 19:45,on assumptions of the study,Study assumptions;nature vs nurture,0,-28.498173,-0.0895331
+27,11,FALSE,1,1,10,1,12/09/2017 09:10,13/09/2017 11:28,on paper validity,Validity,2,-27.499488,-0.0621452
+28,42,FALSE,32,32,10,22,12/09/2017 14:41,15/09/2017 22:26,on the aims of the paper,Phrenology;pseudo-science;anti-LGBT+ science,1,-26.496045,-1.1493856
+29,13,FALSE,13,13,0,8,25/09/2017 12:17,25/09/2017 19:57,o'neil interview of kosinski on gaydar,Ai ethics,1,-25.497428,-0.0471865
+30,11,FALSE,9,9,2,3,27/09/2017 18:35,27/09/2017 19:28,reaction to paper,Pseudo-Science,1,-24.498494,-0.6988534
+31,24,FALSE,24,24,0,6,05/10/2017 03:52,05/10/2017 09:26,general discussion on facial recognition,Harms,0,-23.501996,0.52975794
+32,52,FALSE,44,44,8,39,09/10/2017 17:40,10/10/2017 04:35,"Comments to New York Times article on Kosinki's research, not a research discussion though",Harms,0,-22.502012,0.53269208
+33,10,FALSE,6,6,4,2,09/10/2017 23:43,10/10/2017 03:42,on paper data bias,Model bias;Harms,0,-21.503169,0.6233142
+34,26,FALSE,26,26,0,3,10/10/2017 12:42,10/10/2017 22:27,on paper,Phrenology;Pseudo-Science;privacy,0,-20.496087,-1.1312841
+35,25,FALSE,25,25,0,7,10/10/2017 23:16,11/10/2017 13:07,on IRB,Scientific quality;ethics,0,-19.496947,-0.0806592
+36,7,FALSE,6,6,1,5,12/10/2017 15:07,12/10/2017 15:44,on the paper (not very deep discussion),Validity;nature vs nurture,0,-18.499767,-0.025781
+37,45,FALSE,37,37,8,24,14/10/2017 02:26,05/11/2017 06:28,on paper ,AI ethics;IRB;scientific quality,2,-17.496591,-0.0473676
+38,32,FALSE,21,21,11,18,14/10/2017 08:01,14/10/2017 15:04,"Comments to New York Times article on Kosinki's research, not a research discussion though",Harms,0,-16.502108,0.55029693
+39,43,FALSE,39,39,4,36,16/10/2017 00:28,17/10/2017 17:20,"Comments to New York Times article on Kosinki's research, not a research discussion though",Harms,0,-15.502124,0.55323107
+40,30,FALSE,30,30,0,7,04/12/2017 13:18,04/12/2017 21:56,"not on paper but gebru, mitchell and others on emotion detection",Ai ethics;Harms,1,-14.501644,0.55183703
+41,31,FALSE,27,27,4,24,12/01/2018 12:32,11/02/2018 12:02,reaction to the medium paper criticising gaydar,Validity,0,-13.499712,-0.0210672
+42,12,FALSE,12,12,0,4,13/01/2018 11:53,13/01/2018 19:06,gender orientation prediction,Study assumptions,2,-12.498294,-0.0525437
+43,6,FALSE,4,4,2,2,13/01/2018 16:39,14/01/2018 17:31,short exchange on the paper,Pseudo-Science;Study Assumptions,1,-11.498864,-0.7085388
+44,9,FALSE,9,9,0,6,13/01/2018 20:16,14/01/2018 11:54,they do discuss the debunking paper,Study Assumptions;Model bias,0,-10.499467,0.04101255
+45,11,FALSE,2,2,9,1,22/01/2018 11:12,22/01/2018 19:40,discussion on paper,Pseudo-Science;Study assumptions,0,-9.4988962,-0.7026705
+46,29,FALSE,29,29,0,2,29/05/2018 17:06,29/05/2018 21:19,"majority of one author, but reports questions asked to Kosinski at an event (and answers)",post-privacy society,0,-8.4982724,0.00722022
+47,10,FALSE,10,10,0,2,17/06/2018 22:24,18/06/2018 15:06,discuss generally the paper,Pseudo-Science;Gender Assumptions;Harms,0,-7.502351,-0.0972417
+48,15,FALSE,12,12,3,11,07/07/2018 09:02,08/07/2018 10:48,it's on the article from the Guardian (about gaydar paper,Harms;Model bias;Pseudo-Science,1,-6.503963,0.0083971
+49,17,FALSE,10,10,7,6,07/07/2018 09:24,07/07/2018 22:03,reaction to the medium paper criticising gaydar,Pseudo-Science;Harms,1,-5.5028383,-0.0763567
+50,7,FALSE,7,7,0,6,07/07/2018 10:12,08/07/2018 01:12,but with duplicates. It's about reactions to guardian article,Pseudo-Science,0,-4.498814,-0.6401705
+51,25,FALSE,15,15,10,6,07/07/2018 11:56,07/07/2018 15:13,On Guardian article about gaydar,Harms;Model bias,1,-3.5034567,0.67612875
+52,15,FALSE,15,15,0,13,07/07/2018 12:00,07/07/2018 19:22,reaction to guardian article,Harms;Pseudo-Science,0,-2.5028863,-0.0675543
+53,16,FALSE,16,16,0,6,07/07/2018 13:55,08/07/2018 08:19,on news coverage of the paper,Validity;Pseudoscience;media representations,1,-1.5004716,-0.6629753
+54,13,FALSE,11,11,2,10,07/07/2018 15:01,08/07/2018 05:21,they do discuss the paper but very superficially,Validity,0,-0.4999197,0.01707661
+55,13,FALSE,11,11,2,5,07/07/2018 22:41,07/11/2018 07:41,there is a satirical take on AI and predictive analysis,criticism of social outcome prediction;harms,0,0.49815197,0.65004445
+56,9,FALSE,5,5,4,2,08/07/2018 10:42,08/07/2018 17:42,2xduplicates (shorted than 10) but on the topic (,criticism of social outcome prediction;harms,1,1.49813598,0.6529786
+57,25,FALSE,3,3,22,1,19/07/2018 23:00,21/07/2018 14:08,"Kosinski tweets on the paper, maybe some tweets are missing, better compare interface and dataset",Ml Methods;Validity;Harms;Pseudo-science,1,2.49556383,-0.0502578
+58,14,FALSE,9,9,5,8,26/07/2018 12:15,27/07/2018 11:16,"on amazon Rekognition fail, but also gaydar",Harms;Bias,0,3.49820314,0.81153842
+59,59,FALSE,33,33,26,21,26/07/2018 12:39,27/11/2019 13:01,on Amazon FR tool,Bias;discrimination;harms;racism,0,4.4984892,0.88372235
+60,15,FALSE,1,1,14,1,19/11/2018 20:43,21/11/2018 06:54,"validity of the paper, categories to include",Validity;Pseudoscience;Nature vs Nurture,0,5.49929477,-0.6142908
+61,115,FALSE,80,80,35,42,14/01/2019 01:26,19/01/2019 12:08,comments on the paper started by tweet with link to paper started by Jordan Peterson,Pseudo-Science;Gender Assumptions,2,6.50146544,-0.6229116
+62,8,FALSE,8,8,0,3,05/03/2019 19:00,05/03/2019 19:42,"sarah jamie lewis criticism, refers to another thread 906323550914494464 not captured by data collection",Phrenology;Pseudo-Science;validity,0,7.5020539,-1.0315103
+63,29,FALSE,24,24,5,22,07/03/2019 12:38,14/03/2019 05:49,"it is more on the chinese paper on facial recognition, generally on topic",Validity,1,8.49993634,0.04348389
+64,10,FALSE,10,10,0,6,19/04/2019 16:10,21/04/2019 06:37,on AI research Ai ethics,Ai ethics;Harms,0,9.49797213,0.62225643
+65,10,FALSE,9,9,1,4,11/06/2019 15:26,11/06/2019 18:41,about usage of technology,Harms;Bias,0,10.4980912,0.83207741
+66,37,FALSE,33,33,4,31,28/06/2019 20:23,30/06/2019 09:51,it's on paper,Ml Methods;Validity;Harms,0,11.4959742,0.63507867
+67,10,FALSE,10,10,0,2,05/08/2019 04:19,05/08/2019 16:26,on Institutional Review Board,Ai ethics,0,12.5019645,0.06431094
+68,12,FALSE,8,8,4,2,20/01/2020 19:22,20/01/2020 21:16,on the harms and biases,Harms;Bias,0,13.4980432,0.84087984
+69,12,FALSE,7,7,5,2,02/02/2020 15:57,02/06/2020 14:39,on AI research different from deployment,AI research vs deployment,0,14.5015672,0.07660916
+70,32,FALSE,31,31,1,21,05/07/2020 17:54,06/07/2020 15:13,it's on an app for emotion detection,Bias;Model limitations;validity,0,15.5006809,0.26856071
+71,25,FALSE,24,24,1,7,08/01/2021 12:03,09/01/2021 17:42,on the notes accompanying the gaydar paper,Interpretability,1,16.5015533,0.08264298
+72,12,FALSE,3,3,9,1,11/01/2021 16:06,12/01/2021 05:11,discuss the paper (political orientation) but many tweets not visible,Validity;harms,1,17.4957521,0.63663909
+73,70,FALSE,47,47,23,24,11/01/2021 18:47,15/02/2021 20:20,From Kosinski tweet about political orientation study - with duplicates,Phrenology;Pseudo-science;Study assumptions;What is being measured?,2,18.5033119,-1.0336453
+74,17,FALSE,17,17,0,8,11/01/2021 20:15,12/01/2021 03:11,it's on paper (has duplicates),Phrenology;Pseudo-Science;Quality of science,0,19.5040532,-1.0376435
+75,40,FALSE,32,32,8,8,12/01/2021 02:33,15/01/2021 01:21,it discusses the wrong assumptions of the paper,Model bias;Study Assumptions,2,20.5000376,0.13197095
+76,18,FALSE,10,10,8,5,12/01/2021 12:50,12/01/2021 21:07,Abeba Birhane very critical on paper,Phrenology;Pseudo-Science;Ai ethics,0,21.5039221,-0.9813418
+77,14,FALSE,14,14,0,5,13/01/2021 16:37,15/01/2021 11:33,it's about AI snakeoil but they use the paper as an example,Snake Oil;criticism of social outcome prediction;harms,1,22.498003,0.73475338
+78,10,FALSE,10,10,0,1,13/01/2021 18:54,14/01/2021 17:55,on bias in the data,Model Performance;Accuracy,0,23.5013918,0.21687043
+79,17,FALSE,17,17,0,2,14/01/2021 20:32,14/01/2021 22:20,but more on the paper on political orientation,Pseudo-Science,2,24.5007223,-0.5550804
+80,11,FALSE,11,11,0,4,14/01/2021 21:49,15/01/2021 09:24,three times duplciate,Model limitations;Validity,0,25.4998899,0.09534348
+81,110,FALSE,3,3,107,1,14/01/2021 22:31,16/01/2021 18:27,"Kosinski tweets on the paper, also Sarah T roberts",Harms;hormones;nature-norture,2,26.4973079,0.70578502
+82,36,FALSE,22,22,14,12,14/01/2021 23:00,16/01/2021 19:15,both on gaydar and the political orientation paper,Scientific quality;Phrenology;racism,1,27.5052867,-0.2951213
+83,29,FALSE,10,10,19,2,15/01/2021 00:32,15/01/2021 05:18,on paper,Model limitations;Validity,1,28.4998419,0.1041459
+84,36,FALSE,36,36,0,25,15/01/2021 09:53,24/10/2021 03:06,it's on paper,Phrenology;Pseudo-Science;Ai ethics,0,29.5037942,-0.9578687
+85,47,FALSE,34,34,13,21,15/01/2021 13:58,16/01/2021 22:09,facial recognition and political orientation,Pseudo-Science;Scientific quality,0,30.501456,-0.5604731
+86,244,FALSE,160,160,84,84,15/01/2021 16:22,29/01/2021 12:32,cory doctorow starts comments on gaydar,Model bias;Model limitations;Racism;bias,2,31.501453,0.44496941
+87,36,FALSE,1,1,35,1,15/01/2021 18:07,18/01/2021 20:15,paper on political orientation,Study assumptions;scientific quality;ethics;IRB,1,32.5021949,0.02343014
+88,10,FALSE,10,10,0,5,15/01/2021 18:09,15/01/2021 19:27,on harms,Harms,0,33.4970923,0.69700402
+89,298,FALSE,272,272,26,244,16/01/2021 03:40,20/01/2021 00:43,"not much reasoning on the research, more critical replies",Phrenology;Nature vs Nurture;Critique,0,34.5041692,-0.2201165
+90,10,FALSE,8,8,2,3,16/01/2021 10:37,16/01/2021 12:31,on bias in the data,Model Performance;Accuracy;Bias,0,35.501831,0.45463878
+91,19,FALSE,8,8,11,3,17/01/2021 20:53,24/01/2021 20:41,"it's on ethics, and publications",Phrenology;Pseudo-Science;Ai ethics,2,36.5036823,-0.9373297
+92,79,FALSE,47,47,32,17,18/01/2021 23:17,22/01/2021 01:43,on Ai ethics section missing from gaydar paper,AI Ethics;Phrenology,2,37.5042206,-0.2754663
+93,9,FALSE,5,5,4,2,22/01/2021 13:01,23/01/2021 00:27,on Nature editorial policies,Scientific quality,0,38.5018823,0.12192928
+94,9,FALSE,9,9,0,6,23/01/2021 22:37,24/01/2021 01:18,"duplicates, it's about the guardian article+study",Phrenology;Pseudo-Science,0,39.5031383,-0.9241991
+95,234,FALSE,212,212,22,176,31/01/2021 08:54,11/04/2021 11:46,It's on the political affiliation,Accuracy;Validity;Bias,0,40.5001324,0.41188761
+96,325,FALSE,194,194,131,118,13/02/2021 17:53,15/02/2021 17:18,the discussion is  about facial recognition and political orientation,Study assumptions;Ai ethics;Harm,1,41.4972982,0.66831969
+97,19,FALSE,17,17,2,11,14/02/2021 14:31,15/02/2021 01:37,it's on the paper (duplicates),Phrenology;Pseudo-Science,0,42.5030903,-0.9153966
+98,10,FALSE,6,6,4,2,05/03/2021 16:50,05/03/2021 19:39,"on political study, phrenology",Pseudo-Science;Study assumptions,0,43.5002562,-0.547161
+99,11,FALSE,10,10,1,3,06/03/2021 22:43,07/03/2021 11:16,brief on what the models look at,Model Performance;Accuracy,0,44.501056,0.27848741
+100,250,FALSE,5,5,245,2,11/03/2021 17:36,03/05/2021 22:33,"only a part, is on FR and political affiliation",Validity (only one reply chain in scope;with Einhander),2,45.4993447,0.15204714
+101,18,FALSE,18,18,0,7,17/03/2021 09:53,17/03/2021 10:51,it's on paper (has duplicates),Phrenology;Pseudo-Science;Quality of science,0,46.5036215,-0.9584217
+102,30,FALSE,22,22,8,7,22/04/2021 11:38,28/04/2021 18:54,not specifically on paper but in FR and biometric categorisation,Bias;biometric categorisation,0,47.5019681,0.38443976
+103,38,FALSE,38,38,0,12,12/05/2021 05:42,14/05/2021 14:23,it's on paper,AI regulation;Human oversight;harms,1,48.497727,0.78403587
+104,30,FALSE,28,28,2,17,02/07/2021 11:46,03/07/2021 11:35,on harms,Harms;Pseudo-Science,0,49.4962822,0.08502107
+105,12,FALSE,12,12,0,5,03/07/2021 14:00,05/07/2021 08:57,about usage of echnology,Harms,0,50.4968205,0.74688444
+106,45,FALSE,1,1,44,1,03/08/2021 17:11,06/08/2021 06:38,"the root tweet is on another paper on computer vision and ethinicty recgnition, but they also discuss gaydar",Gender as social construct;social categories,1,51.5017645,0.17279457
+107,47,FALSE,27,27,20,17,23/08/2021 19:20,25/08/2021 16:05,it's generally on FR,harms;limitations;effectiveness,2,52.4977351,0.7964538
+108,14,FALSE,7,7,7,1,28/10/2021 22:23,28/10/2021 22:35,on the study but not very informative,#N/A,0,53.5008128,0.18893894
+109,66,FALSE,61,61,5,31,30/10/2021 17:59,17/11/2021 06:31,discuss kosinki's work + more on facial recognition and phrenology/physiognomy,Ethics;Phrenology;Pseudo-science,0,54.5031419,-0.9125952
